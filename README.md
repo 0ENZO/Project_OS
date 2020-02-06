@@ -2,7 +2,7 @@
 
 Contributeurs : 
 
-  ARHAB Enzo 
-  BOUDON Alexandre
+  ARHAB Enzo \n
+  BOUDON Alexandre \n
   PIERRUCI Romain
   
